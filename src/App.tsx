@@ -107,7 +107,7 @@ function App() {
     }`;
 
   const handleCTAClick = () => {
-    window.open('https://pay.kiwify.com.br/NXR1GGl?afid=OZlhOcQY', '_blank');
+    window.open('https://go.goatpayments.com.br/ssa1s7p1td', '_blank');
   };
 
   return (
@@ -719,9 +719,9 @@ function App() {
                   R$ 197
                 </div>
                 <div className="text-5xl md:text-7xl font-bold text-amber-400 mb-4">
-                  R$ 29,99
+                  R$ 27,00
                 </div>
-                <div className="text-xl text-amber-200">ou 3x de R$ 10,70</div>
+                <div className="text-xl text-amber-200"></div>
               </div>
 
               <div className="flex items-center justify-center mb-8 p-4 bg-green-900/30 border border-green-500/30 rounded-xl">
